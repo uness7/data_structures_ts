@@ -13,5 +13,5 @@ function binarySearch(haystack: number[], needle: number): boolean {
             high = mid;
         }
     }
-    return true;
+    return false;
 }
